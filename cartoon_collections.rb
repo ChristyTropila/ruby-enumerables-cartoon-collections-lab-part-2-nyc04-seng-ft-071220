@@ -4,6 +4,7 @@ def square_array(array)
 array.map|element|do
   element ** 2
 end
+end
 array
 end
 
